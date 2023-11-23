@@ -7,4 +7,4 @@ This project is a Fruit Ninja clone written in Unity.
 - Keep current score
 
 ## Gallery
-<img src=fruitninja.png" alt="image" width="30%">
+<img src="fruitninja.png" alt="image" width="30%">
